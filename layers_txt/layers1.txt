@@ -11,7 +11,7 @@
           "id": "_ort",
           "title": "最新（2007年～）",
           "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/670.png",
-          "url": "http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg",
+          "url": "http://a.tile.openstreetmap.org/16/58142/25831.png",
           "subdomains": "",
           "attribution": "",
           "cocotile": true,
